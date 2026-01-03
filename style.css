@@ -3,12 +3,20 @@
   padding: 10px;
 }
 #h{
-  color: blue;
+  color: white;
   background-color: blueviolet;
+  border-radius: 20px;
 }
 .p{
   color: brown;
   text-align: justify;
-  width: 400px;
-  
+ 
+}
+#ul-items{
+  display: flex;
+  list-style: none;
+}
+#u {
+  background-color: blue;
+  height: .0;
 }
