@@ -1,0 +1,14 @@
+*{
+  margin: 20px;
+  padding: 10px;
+}
+#h{
+  color: blue;
+  background-color: blueviolet;
+}
+.p{
+  color: brown;
+  text-align: justify;
+  width: 400px;
+  
+}
